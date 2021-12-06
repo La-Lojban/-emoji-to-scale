@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://la-lojban.github.io/-emoji-to-scale/static/css/main.4ace73cd.chunk.css",
-    "main.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.22d42e5b.chunk.js",
-    "main.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.22d42e5b.chunk.js.map",
+    "main.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.4e443685.chunk.js",
+    "main.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.4e443685.chunk.js.map",
     "runtime-main.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/runtime-main.0618f10a.js",
     "runtime-main.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/runtime-main.0618f10a.js.map",
     "static/js/2.b63a1fae.chunk.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/2.b63a1fae.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.4ace73cd.chunk.css.map": "https://la-lojban.github.io/-emoji-to-scale/static/css/main.4ace73cd.chunk.css.map",
     "static/js/2.b63a1fae.chunk.js.LICENSE.txt": "https://la-lojban.github.io/-emoji-to-scale/static/js/2.b63a1fae.chunk.js.LICENSE.txt",
     "static/media/index.css": "https://la-lojban.github.io/-emoji-to-scale/static/media/bg.85658877.svg",
-    "static/media/nature.0efb5943.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/nature.0efb5943.csv",
+    "static/media/nature.e01b0425.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/nature.e01b0425.csv",
     "static/media/objects.e97415d8.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/objects.e97415d8.csv",
     "static/media/random.514a6601.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/random.514a6601.csv",
     "static/media/travel.4cbfdb0d.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/travel.4cbfdb0d.csv"
@@ -22,6 +22,6 @@
     "static/js/runtime-main.0618f10a.js",
     "static/js/2.b63a1fae.chunk.js",
     "static/css/main.4ace73cd.chunk.css",
-    "static/js/main.22d42e5b.chunk.js"
+    "static/js/main.4e443685.chunk.js"
   ]
 }
