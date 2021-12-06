@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://la-lojban.github.io/-emoji-to-scale/static/css/main.46318645.chunk.css",
+    "main.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.7d7f300c.chunk.js",
+    "main.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/main.7d7f300c.chunk.js.map",
+    "runtime-main.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/runtime-main.0618f10a.js",
+    "runtime-main.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/runtime-main.0618f10a.js.map",
+    "static/js/2.b63a1fae.chunk.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/2.b63a1fae.chunk.js",
+    "static/js/2.b63a1fae.chunk.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/2.b63a1fae.chunk.js.map",
+    "static/js/3.a05d0a34.chunk.js": "https://la-lojban.github.io/-emoji-to-scale/static/js/3.a05d0a34.chunk.js",
+    "static/js/3.a05d0a34.chunk.js.map": "https://la-lojban.github.io/-emoji-to-scale/static/js/3.a05d0a34.chunk.js.map",
+    "index.html": "https://la-lojban.github.io/-emoji-to-scale/index.html",
+    "static/css/main.46318645.chunk.css.map": "https://la-lojban.github.io/-emoji-to-scale/static/css/main.46318645.chunk.css.map",
+    "static/js/2.b63a1fae.chunk.js.LICENSE.txt": "https://la-lojban.github.io/-emoji-to-scale/static/js/2.b63a1fae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://la-lojban.github.io/-emoji-to-scale/static/media/bg.85658877.svg",
+    "static/media/nature.867e8b9a.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/nature.867e8b9a.csv",
+    "static/media/objects.e97415d8.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/objects.e97415d8.csv",
+    "static/media/random.da0c7203.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/random.da0c7203.csv",
+    "static/media/travel.4cbfdb0d.csv": "https://la-lojban.github.io/-emoji-to-scale/static/media/travel.4cbfdb0d.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0618f10a.js",
+    "static/js/2.b63a1fae.chunk.js",
+    "static/css/main.46318645.chunk.css",
+    "static/js/main.7d7f300c.chunk.js"
+  ]
+}
